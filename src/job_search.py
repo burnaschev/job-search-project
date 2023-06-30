@@ -15,18 +15,18 @@ class VacanciesAPI(ABC):
 
 class HeadHunterAPI(VacanciesAPI):
     """Класс для получения API с платформы HeadHunter"""
-    api_hh = 'https://api.hh.ru/vacancies'
+    api_hh = 'https://api.hh.ru/vacancies?text='
 
     def __init__(self):
         self.items_hh = None
 
     def get_vacancies(self, params: str):
         """Получение заданных пользователем профессий с платформы HeadHunter"""
-        response = requests.get(self.api_hh, params=params)
-        if response.status_code == HTTPStatus.OK:
-            self.items_hh = response.json()['items']
-            return self.items_hh
-        return f"Ошибка! {response.status_code}"
+        response = requests.get(f'{self.api_hh}{params}')
+        if not response.status_code == HTTPStatus.OK:
+            return f"Ошибка! {response.status_code}"
+        self.items_hh = response.json()
+        return self.items_hh
 
 
 class SuperJob(VacanciesAPI, ABC):
@@ -36,7 +36,7 @@ class SuperJob(VacanciesAPI, ABC):
     def __init__(self):
         self.items_sj = None
 
-    def get_vacancies(self, params):
+    def get_vacancies(self, params: str):
         """Получение заданных пользователем профессий с платформы SuperJob"""
         headers = {
             "X-Api-App-Id": 'v3.r.137643549.5dafea9523d8382ad2dd0791d3bb597bb32e4eff'
