@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Разработчик python (возможно обучение)",
+    "url:": "https://hh.ru/vacancy/82868871",
+    "salary": {
+      "from": 2500,
+      "to": null,
+      "currency": "BYR",
+      "gross": false
+    },
+    "requirements": "Нет опыта"
+  },
+  {
+    "name": "Стажер-разработчик",
+    "url:": "https://hh.ru/vacancy/82631531",
+    "salary": {
+      "from": 40000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "requirements": "Нет опыта"
+  },
+  {
+    "name": "Junoir backend developer (Python)",
+    "url:": "https://hh.ru/vacancy/82411482",
+    "salary": {
+      "from": null,
+      "to": 60000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "requirements": "Нет опыта"
+  },
+  {
+    "name": "Junior разработчик Python/Стажер",
+    "url:": "https://hh.ru/vacancy/81549878",
+    "salary": {
+      "from": 50000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "requirements": "От 1 года до 3 лет"
+  },
+  {
+    "name": "Стажер в направлении Python разработка",
+    "url:": "https://hh.ru/vacancy/82293080",
+    "salary": null,
+    "requirements": "Нет опыта"
+  },
+  {
+    "name": "Стажер в IT-компанию (с уклоном в python разработку)",
+    "url:": "https://hh.ru/vacancy/82345120",
+    "salary": null,
+    "requirements": "Нет опыта"
+  },
+  {
+    "name": "Стажер\\Data engineer\\Python developer",
+    "url:": "https://hh.ru/vacancy/82440351",
+    "salary": null,
+    "requirements": "Нет опыта"
+  },
+  {
+    "name": "Logistics Manager / Менеджер по логистике",
+    "url:": "https://hh.ru/vacancy/82630612",
+    "salary": {
+      "from": 855000,
+      "to": null,
+      "currency": "KZT",
+      "gross": true
+    },
+    "requirements": "От 1 года до 3 лет"
+  },
+  {
+    "name": "Junior Data Scientist",
+    "url:": "https://hh.ru/vacancy/82534003",
+    "salary": null,
+    "requirements": "Нет опыта"
+  },
+  {
+    "name": "Стажер Web Программист в отдел разработки Интернет-Магазинов",
+    "url:": "https://hh.ru/vacancy/82197901",
+    "salary": {
+      "from": 30000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "requirements": "Нет опыта"
+  },
+  {
+    "name": "Специалист службы поддержки (Яндекс.Поиск)",
+    "url": "https://dzerzhinsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-45402356.html",
+    "salary": "от 15000 до 39000",
+    "requirements": "Без опыта"
+  },
+  {
+    "name": "Инженер-программист встраиваемых систем",
+    "url": "https://dolgoprudniy.superjob.ru/vakansii/inzhener-programmist-vstraivaemyh-sistem-45842844.html",
+    "salary": "от 100000 до 0",
+    "requirements": "От 3 лет"
+  },
+  {
+    "name": "Аналитик данных / Data Analyst (Стрим Сквозные бизнес-компоненты)",
+    "url": "https://www.superjob.ru/vakansii/analitik-dannyh-46529029.html",
+    "salary": "от 0 до 0",
+    "requirements": "От 3 лет"
+  },
+  {
+    "name": "Программист",
+    "url": "https://kolomna.superjob.ru/vakansii/programmist-45594068.html",
+    "salary": "от 60000 до 0",
+    "requirements": "От 1 года"
+  },
+  {
+    "name": "Учитель по программированию",
+    "url": "https://zelenograd.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698481.html",
+    "salary": "от 0 до 60000",
+    "requirements": "Без опыта"
+  },
+  {
+    "name": "Аналитик",
+    "url": "https://dmitrov.superjob.ru/vakansii/analitik-45733206.html",
+    "salary": "от 150000 до 0",
+    "requirements": "От 3 лет"
+  },
+  {
+    "name": "Data Scientist",
+    "url": "https://spb.superjob.ru/vakansii/data-scientist-46185193.html",
+    "salary": "от 0 до 0",
+    "requirements": "От 1 года"
+  },
+  {
+    "name": "Аналитик информационной безопасности SOC L2 Middle soc analyst L2",
+    "url": "https://www.superjob.ru/vakansii/analitik-informacionnoj-bezopasnosti-soc-l2-middle-soc-analyst-l2-46547022.html",
+    "salary": "от 100000 до 120000",
+    "requirements": "От 1 года"
+  },
+  {
+    "name": "Старший преподаватель (кафедра математики и прикладных информационных технологий)",
+    "url": "https://tyumen.superjob.ru/vakansii/starshij-prepodavatel-46550402.html",
+    "salary": "от 25500 до 0",
+    "requirements": "Без опыта"
+  },
+  {
+    "name": "Педагог дополнительного образования (программирование)",
+    "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-45716514.html",
+    "salary": "от 30000 до 0",
+    "requirements": "Без опыта"
+  },
+  {
+    "name": "Инженер/Программист микроконтроллеров (стажер)",
+    "url": "https://ekaterinburg.superjob.ru/vakansii/inzhener-46664652.html",
+    "salary": "от 19500 до 24500",
+    "requirements": "Без опыта"
+  },
+  {
+    "name": "Менеджер по работе с клиентами",
+    "url": "https://perm.superjob.ru/vakansii/menedzher-po-rabote-s-klientami-44458424.html",
+    "salary": "от 35000 до 50000",
+    "requirements": "Без опыта"
+  },
+  {
+    "name": "Senior data scientist",
+    "url": "https://spb.superjob.ru/vakansii/senior-data-scientist-46668124.html",
+    "salary": "от 300000 до 0",
+    "requirements": "От 1 года"
+  },
+  {
+    "name": "Преподаватель робототехники, LEGO-конструирование, Arduino, виртуальная реальность, коптеры",
+    "url": "https://spb.superjob.ru/vakansii/prepodavatel-robototehniki-37424126.html",
+    "salary": "от 30000 до 35000",
+    "requirements": "От 1 года"
+  },
+  {
+    "name": "Учитель информатики и робототехники",
+    "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-i-robototehniki-39720503.html",
+    "salary": "от 80000 до 0",
+    "requirements": "От 1 года"
+  },
+  {
+    "name": "Преподаватель Информатика и вычислительная техника",
+    "url": "https://spb.superjob.ru/vakansii/prepodavatel-informatika-i-vychislitelnaya-tehnika-43877938.html",
+    "salary": "от 60000 до 0",
+    "requirements": "От 1 года"
+  },
+  {
+    "name": "Аналитик отдела продаж",
+    "url": "https://www.superjob.ru/vakansii/analitik-otdela-prodazh-46400350.html",
+    "salary": "от 0 до 0",
+    "requirements": "От 3 лет"
+  },
+  {
+    "name": "Педагог дополнительного образования",
+    "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-46399099.html",
+    "salary": "от 0 до 0",
+    "requirements": "Без опыта"
+  },
+  {
+    "name": "Педагог дополнительного образования",
+    "url": "https://ekaterinburg.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-46547598.html",
+    "salary": "от 10000 до 50000",
+    "requirements": "Не имеет значения"
+  },
+  {
+    "name": "Системный администратор",
+    "url": "https://spb.superjob.ru/vakansii/sistemnyj-administrator-46664658.html",
+    "salary": "от 70000 до 120000",
+    "requirements": "От 3 лет"
+  }
+]
