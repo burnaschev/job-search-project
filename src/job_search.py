@@ -127,9 +127,9 @@ class Vacancies:
         return self.__skills
 
     @skills.setter
-    def skill(self, other):
+    def skills(self, other):
         if isinstance(other.skills, str):
-            self.skills = other.skills
+            self.__skills = other.skills
 
     @property
     def salary(self):
