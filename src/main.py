@@ -1,11 +1,14 @@
 from src.utils import filter_vacancies, sort_vacancies, get_top_vacancies, print_vacancies
-from src.job_search import HeadHunterAPI, JsonSaver, SuperJobAPI
+from src.job_search import HeadHunterAPI, JsonSaver, SuperJobAPI, Vacancies
 
 JSON_FILE = "vacancy.json"
 
 hh_api = HeadHunterAPI()
 superjob_api = SuperJobAPI()
 json_save = JsonSaver(JSON_FILE)
+vacancy_1 = Vacancies("Python Developer", "<https://hh.ru/vacancy/123456>", "100 000-150 000 руб.", "Требования: опыт "
+                                                                                                    "работы от 3 "
+                                                                                                    "лет...")
 
 
 def user_interaction():
