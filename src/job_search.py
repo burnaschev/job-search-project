@@ -42,7 +42,7 @@ class HeadHunterAPI(VacanciesAPI):
     def get_formatted_vacancies(self):
         """Сортировка вакансий"""
         vacancies = []
-        for vacancy in self.get_vacancies('Python'):
+        for vacancy in self.items_hh:
             vacancies.append({
                 'name': vacancy.get('name'),
                 'url:': vacancy.get('alternate_url'),
@@ -83,7 +83,7 @@ class SuperJobAPI(VacanciesAPI, ABC):
     def get_formatted_vacancies(self):
         """Сортировка вакансий"""
         vacancies = []
-        for vacancy in self.get_vacancies('Python'):
+        for vacancy in self.items_sj:
             vacancies.append({
                 'name': vacancy.get('profession'),
                 'url': vacancy.get('link'),
