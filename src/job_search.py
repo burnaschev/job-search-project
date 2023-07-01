@@ -45,7 +45,7 @@ class HeadHunterAPI(VacanciesAPI):
         for vacancy in self.items_hh:
             vacancies.append({
                 'name': vacancy.get('name'),
-                'url:': vacancy.get('alternate_url'),
+                'url': vacancy.get('alternate_url'),
                 'salary': vacancy.get('salary'),
                 'requirements': vacancy.get('experience')['name']
             })
